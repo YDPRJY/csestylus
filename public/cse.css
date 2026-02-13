@@ -1,0 +1,24 @@
+h1 {
+  border: 1px solid #0ff;
+}
+h2 {
+  border: 2px solid #0ff;
+}
+h3 {
+  border: 3px solid #0ff;
+}
+body {
+  background-color: #00f;
+}
+h1 {
+  color: #0ff;
+}
+h2 {
+  color: #ffc0cb;
+}
+h3 {
+  color: #a52a2a;
+}
+h4 {
+  color: #f00;
+}
